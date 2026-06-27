@@ -7,7 +7,47 @@ The Student Retention & Performance Prediction System is a Machine Learning and 
 By combining predictive analytics with interactive dashboards, the system helps educational institutions monitor student performance, improve engagement, and support timely academic interventions.
 
 ---
+---
 
+## Datasets Used
+
+The project uses five educational datasets to analyze student performance and engagement.
+
+| Dataset | Description |
+|---------|-------------|
+| **student_assessment.xlsx** | Contains student assessment scores, submission dates, and assessment details. |
+| **student_engagement_performance.xlsx** | Stores student engagement metrics, performance scores, and engineered engagement features. |
+| **student_info.xlsx** | Includes demographic information such as gender, region, age band, education level, and study credits. |
+| **student_registration.xlsx** | Contains student registration details, registration dates, and module information. |
+| **student_vle.xlsx** | Records students' Virtual Learning Environment (VLE) interactions, including click activity and online engagement. |
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Power BI
+- Git
+- GitHub
+- Jupyter Notebook
+
+  ---
+
+## Project Workflow
+
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Dataset Merging
+4. Feature Engineering
+5. Exploratory Data Analysis (EDA)
+6. Machine Learning Model Training
+7. Student Performance Prediction
+8. Power BI Dashboard Development
+9. Model Evaluation and Insights
 ## Project Objectives
 
 - Predict student academic performance using Machine Learning.
