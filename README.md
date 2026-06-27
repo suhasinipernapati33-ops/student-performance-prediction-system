@@ -55,3 +55,107 @@ The project uses five educational datasets to analyze student performance and en
 - Analyze student engagement and learning behavior.
 - Build interactive Power BI dashboards for performance monitoring.
 - Support data-driven decision-making for academic institutions.
+
+---
+
+## Machine Learning Model
+
+The project uses supervised machine learning techniques to predict student academic performance based on assessment scores, engagement metrics, demographic information, and learning activity.
+
+### Machine Learning Workflow
+
+- Data preprocessing and cleaning
+- Feature engineering
+- Train-test data split
+- Model training
+- Performance evaluation
+- Student performance prediction
+
+### Features Used
+
+- Assessment Score
+- Student Engagement
+- Sum of Clicks (VLE Activity)
+- Age Band
+- Gender
+- Highest Education
+- Number of Previous Attempts
+- Studied Credits
+- Registration Information
+
+### Target Variable
+
+- Student Performance
+
+  ---
+
+## Power BI Dashboard
+
+The project includes an interactive Power BI dashboard for monitoring student performance and engagement.
+
+### Dashboard Features
+
+- Total Students KPI
+- Average Score KPI
+- Average Engagement KPI
+- Pass Rate KPI
+- Student Outcomes Visualization
+- Performance by Region
+- Average Engagement by Region
+- Top 20 At-Risk Students Table
+- Interactive Filters (Region, Gender, Age Band, Module)
+
+  ---
+
+## Project Results
+
+The project successfully combines machine learning and data visualization to provide valuable insights into student performance.
+
+### Key Outcomes
+
+- Predicted student academic performance.
+- Identified students at risk of poor performance.
+- Analyzed engagement patterns using VLE activity.
+- Created an interactive dashboard for educators.
+- Supported data-driven academic decision-making.
+
+  ---
+
+## Future Improvements
+
+- Improve prediction accuracy using advanced machine learning algorithms.
+- Deploy the prediction model as a web application.
+- Integrate real-time educational data.
+- Develop automated student alert and intervention systems.
+- Expand dashboard functionality with additional analytics.
+
+  ---
+
+## Project Structure
+
+```
+student-performance-prediction-system/
+│
+├── data/
+│   ├── student_assessment.xlsx
+│   ├── student_engagement_performance.xlsx
+│   ├── student_info.xlsx
+│   ├── student_registration.xlsx
+│   └── student_vle.xlsx
+│
+├── notebooks/
+├── dashboard/
+├── models/
+├── README.md
+└── requirements.txt
+```
+
+---
+
+---
+
+## Author
+
+**Suhasini Pernapati**
+
+Machine Learning | Data Analytics | Power BI
